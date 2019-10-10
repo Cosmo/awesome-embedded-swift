@@ -19,6 +19,7 @@
 ### Networking, IoT, Bus Protocols, …
 
 - [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - ⚡️A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
+- [SingleBoard](https://github.com/Kaiede/SingleBoard) - GPIO Library for Single Board Computers (Raspberry Pi / Rock 64)
 - [SwiftyXBee](https://github.com/samco182/SwiftyXBee) - ⚡️ A Swift library for communicating with XBee radios in API mode
 
 ## Displays
