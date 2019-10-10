@@ -28,6 +28,7 @@
 - [SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
 - [5110LCD_PCD8544.swift](https://github.com/uraimo/5110lcd_pcd8544.swift) - A Swift library for the Nokia3310/5110 PCD8544 Monochrome LCD display
 - [HD44780CharacterLCD.swift](https://github.com/uraimo/HD44780CharacterLCD.swift) - A Swift library for 16x2/20x4 Character LCDs with the HD44780(or clones) controller
+- [LCD20x4_i2c](https://github.com/carlhung/LCD20x4_i2c) - LCD20x4 Driver in swift for raspberry pi wiring in i2c
 
 ## LEDs
 
