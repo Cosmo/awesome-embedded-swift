@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+- [Single Board Computers](#single-board-computers)
 - [Communication](#communication)
 - [Displays](#displays)
 - [LEDs](#leds)
@@ -14,7 +15,7 @@
 
 ---
 
-## Single Board Computer
+## Single Board Computers
 
 - [buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - 🛠All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 5.1.1
 
