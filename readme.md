@@ -14,6 +14,10 @@
 
 ---
 
+## Single Board Computer
+
+- [buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - 🛠All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 5.1.1
+
 ## Communication
 
 ### Networking, IoT, Bus Protocols, …
