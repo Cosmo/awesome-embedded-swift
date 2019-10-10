@@ -52,6 +52,7 @@
 ## Modules
 
 - [MCP3008.swift](https://github.com/uraimo/MCP3008.swift) - A Swift library for the MCP3008 (and MCP3002,MCP3004) 10 bits SPI ADC
+- [MCP4725](https://github.com/Kaiede/MCP4725) - Swift library for interacting with the MCP4725 I2C 12-bit DAC.
 - [SG90Servo.swift](https://github.com/uraimo/SG90Servo.swift) - Swift library for the SG90 Servo Motor, adaptable for other servos (9g ES08A, SM-S4303R, S3003, etc...).
 
 ## Graphics
