@@ -18,6 +18,7 @@
 ## Single Board Computers
 
 - [buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - 🛠All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 5.1.1
+- [Swift on Balena](http://github.com/wlisac/swift-on-balena) - <a href="http://github.com/wlisac/swift-on-balena"><img src="https://github.com/wlisac/swift-on-balena/raw/master/Assets/logo.svg?sanitize=true" width=22 align="top"></a> Docker images for Swift on Raspberry Pi and other ARM devices from balena's base images.
 
 ## Communication
 
