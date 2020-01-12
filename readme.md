@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+- [Microcontroller units](#microcontroller-units)
 - [Single Board Computers](#single-board-computers)
 - [Communication](#communication)
 - [Displays](#displays)
@@ -14,6 +15,10 @@
 - [Graphics](#graphics)
 
 ---
+
+## Microcontroller units
+
+- [Swift for Embedded](https://github.com/swift-embedded/swift-embedded) - Swift for Embedded Systems ✨
 
 ## Single Board Computers
 
